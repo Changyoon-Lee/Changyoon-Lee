@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+multicampus 5.25~11.15
+Team project
+- BOK_project
+- CNN_project
+- seq2seq_project
+
+
+공모전
+- big contest
+
+TIL
+- 알고리즘
+- ML/NLP 이론
+- CE(Computer Engineering) 이론
