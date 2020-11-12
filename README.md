@@ -22,7 +22,7 @@ Team project
 - BOK_project
 - CNN_project
 - seq2seq_project
-
+- unsupervised NMT
 
 공모전
 - big contest
