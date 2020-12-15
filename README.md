@@ -27,7 +27,7 @@ Team project
 공모전
 - big contest
 
-TIL([notion](https://www.notion.so/changyoon/5ced0ead018149d384906330ce2306bd?v=42a1d8da8c5c414abf50573e4f784063)으로 이동 중)
+TIL([notion](bit.ly/2INOUyvbit.l)으로 이동 중)
 - 알고리즘([programmers 문제풀이](https://github.com/Changyoon-Lee/TIL/tree/master/Algorithm))
 - ML/NLP 이론
 - CE(Computer Engineering) 이론
