@@ -25,7 +25,7 @@ Team project
 - unsupervised NMT
 
 공모전
-- big contest
+- 2020 big contest (최우수상-sk상)
 
 TIL([notion](bit.ly/2INOUyvbit.l)으로 이동 중)
 - 알고리즘([programmers 문제풀이](https://github.com/Changyoon-Lee/TIL/tree/master/Algorithm))
