@@ -25,9 +25,10 @@ Team project
 - unsupervised NMT
 
 공모전
-- 2020 big contest (최우수상-sk상)
+- 2020 big contest (최우수상-sk텔레콤상)
 
-TIL([notion](bit.ly/2INOUyvbit.l)으로 이동 중)
+ML/DL/통계 개념정리/[notion](https://bit.ly/2INOUyv)
+TIL
 - 알고리즘([programmers 문제풀이](https://github.com/Changyoon-Lee/TIL/tree/master/Algorithm))
 - ML/NLP 이론
 - CE(Computer Engineering) 이론
